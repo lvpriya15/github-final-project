@@ -1,0 +1,18 @@
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/12134
+
+{
+  "number": 12134,
+  "state": "closed",
+  "head": {
+    "ref": "bug-fix-revert",
+    "repo": {
+      "full_name": "lvpriya15/github-final-project"
+    }
+  },
+  "base": {
+    "ref": "main",
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}

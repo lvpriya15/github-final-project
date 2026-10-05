@@ -1,3 +1,4 @@
-bug-fix-revert c699f6b Revert README footer year
-bug-fix-typo af28117 Fix typo in README footer
-* main d5eccaf Merge pull request #1 from lvpriya15/bug-fix-typo
+git branch -vv
+  bug-fix-revert c699f6b Revert README footer year
+  bug-fix-typo   af28117 Updated the footer year in README.md
+* main           418f04f Add branch status evidence
